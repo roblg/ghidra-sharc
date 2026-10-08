@@ -6,6 +6,7 @@ SMOKE sw:00130003 RTS
 SMOKE sw:00138000 NOP  (no p-code)
 SMOKE sw:00138001 NOP  (no p-code)
 SMOKE analyzer SHARC Call Idiom
+SMOKE analyzer SHARC Code Sweep
 SMOKE analyzer SHARC Delay Slot
 SMOKE analyzer SHARC Function Pointer Arguments
 SMOKE analyzer SHARC Loop End
